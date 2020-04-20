@@ -1,0 +1,49 @@
+*{
+     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Comic Sans" cursive;
+}
+h1{
+    color: black;
+    font-family: "Comic Sans" cursive;
+
+}
+
+.plot{
+    
+    height: 200px;
+    border: 2px solid black;
+    overflow: hidden;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: lightpink;
+}
+
+.container-fluid{
+    padding: 0 20px;
+}
+
+h3{
+    position: relative;
+    left: 75%;
+    width: 30%;
+    text-align: center;
+    border: 2px solid black;
+    margin: 0;
+}
+p{
+    padding: 10px;
+    font-size: 16px;
+}
+
+#chiken{
+    background-color: purple;
+    color: white;
+}
+#beef{
+    background-color: gold;
+}
+#sushi{
+    background-color: greenyellow;
+}
